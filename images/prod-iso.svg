@@ -1,0 +1,14 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1E222B"/><stop offset="1" stop-color="#101217"/></linearGradient>
+<linearGradient id="metal" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset=".5" stop-color="#CBD5E1"/><stop offset="1" stop-color="#475569"/></linearGradient>
+<linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF3B4E"/><stop offset="1" stop-color="#E50914"/></linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#g)"/>
+
+<circle cx="200" cy="150" r="92" fill="#fff"/>
+<circle cx="200" cy="150" r="92" fill="none" stroke="url(#red)" stroke-width="8"/>
+<text x="200" y="140" text-anchor="middle" font-family="Oswald, sans-serif" font-size="34" fill="#0D0E12" font-weight="600">ISO</text>
+<text x="200" y="172" text-anchor="middle" font-family="Oswald, sans-serif" font-size="20" fill="#E50914">9001:2015</text>
+
+</svg>

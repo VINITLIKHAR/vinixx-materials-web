@@ -1,0 +1,47 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice">
+<defs>
+<linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B0C0F"/><stop offset="1" stop-color="#1A1C24"/></linearGradient>
+<radialGradient id="pipeGrad" cx="35%" cy="35%" r="75%"><stop offset="0" stop-color="#FFFFFF"/><stop offset=".55" stop-color="#94A3B8"/><stop offset="1" stop-color="#334155"/></radialGradient>
+<radialGradient id="glow2" cx="20%" cy="80%" r="60%"><stop offset="0" stop-color="#E50914" stop-opacity=".5"/><stop offset="1" stop-color="#990B19" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#bg2)"/>
+<rect width="1600" height="900" fill="url(#glow2)"/>
+<g>
+<circle cx="1000" cy="260" r="46" fill="url(#pipeGrad)" stroke="#121318" stroke-width="4"/>
+<circle cx="1000" cy="260" r="25" fill="#121318"/>
+<circle cx="1080" cy="278" r="46" fill="url(#pipeGrad)" stroke="#121318" stroke-width="4"/>
+<circle cx="1080" cy="278" r="25" fill="#121318"/>
+<circle cx="1160" cy="260" r="46" fill="url(#pipeGrad)" stroke="#121318" stroke-width="4"/>
+<circle cx="1160" cy="260" r="25" fill="#121318"/>
+<circle cx="1240" cy="278" r="46" fill="url(#pipeGrad)" stroke="#121318" stroke-width="4"/>
+<circle cx="1240" cy="278" r="25" fill="#121318"/>
+<circle cx="1320" cy="260" r="46" fill="url(#pipeGrad)" stroke="#121318" stroke-width="4"/>
+<circle cx="1320" cy="260" r="25" fill="#121318"/>
+<circle cx="1400" cy="278" r="46" fill="url(#pipeGrad)" stroke="#121318" stroke-width="4"/>
+<circle cx="1400" cy="278" r="25" fill="#121318"/>
+<circle cx="1480" cy="260" r="46" fill="url(#pipeGrad)" stroke="#121318" stroke-width="4"/>
+<circle cx="1480" cy="260" r="25" fill="#121318"/>
+<circle cx="1560" cy="278" r="46" fill="url(#pipeGrad)" stroke="#121318" stroke-width="4"/>
+<circle cx="1560" cy="278" r="25" fill="#121318"/>
+<circle cx="1620" cy="260" r="46" fill="url(#pipeGrad)" stroke="#121318" stroke-width="4"/>
+<circle cx="1620" cy="260" r="25" fill="#121318"/>
+<circle cx="980" cy="470" r="46" fill="url(#pipeGrad)" stroke="#121318" stroke-width="4"/>
+<circle cx="980" cy="470" r="25" fill="#121318"/>
+<circle cx="1060" cy="488" r="46" fill="url(#pipeGrad)" stroke="#121318" stroke-width="4"/>
+<circle cx="1060" cy="488" r="25" fill="#121318"/>
+<circle cx="1140" cy="470" r="46" fill="url(#pipeGrad)" stroke="#121318" stroke-width="4"/>
+<circle cx="1140" cy="470" r="25" fill="#121318"/>
+<circle cx="1220" cy="488" r="46" fill="url(#pipeGrad)" stroke="#121318" stroke-width="4"/>
+<circle cx="1220" cy="488" r="25" fill="#121318"/>
+<circle cx="1300" cy="470" r="46" fill="url(#pipeGrad)" stroke="#121318" stroke-width="4"/>
+<circle cx="1300" cy="470" r="25" fill="#121318"/>
+<circle cx="1380" cy="488" r="46" fill="url(#pipeGrad)" stroke="#121318" stroke-width="4"/>
+<circle cx="1380" cy="488" r="25" fill="#121318"/>
+<circle cx="1460" cy="470" r="46" fill="url(#pipeGrad)" stroke="#121318" stroke-width="4"/>
+<circle cx="1460" cy="470" r="25" fill="#121318"/>
+<circle cx="1540" cy="488" r="46" fill="url(#pipeGrad)" stroke="#121318" stroke-width="4"/>
+<circle cx="1540" cy="488" r="25" fill="#121318"/>
+<circle cx="1600" cy="470" r="46" fill="url(#pipeGrad)" stroke="#121318" stroke-width="4"/>
+<circle cx="1600" cy="470" r="25" fill="#121318"/>
+</g>
+</svg>

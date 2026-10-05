@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3a3d44"/><stop offset="1" stop-color="#22242a"/></linearGradient>
+<linearGradient id="metal" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#eef0f2"/><stop offset=".5" stop-color="#9aa0a6"/><stop offset="1" stop-color="#575b61"/></linearGradient>
+<linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF3B4E"/><stop offset="1" stop-color="#E50914"/></linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#g)"/>
+
+<circle cx="200" cy="150" r="95" fill="none" stroke="url(#metal)" stroke-width="26"/>
+<circle cx="200" cy="150" r="52" fill="none" stroke="#1c1d1f" stroke-width="10"/>
+<circle cx="270.0" cy="150.0" r="7" fill="#1c1d1f"/><circle cx="249.49750751954585" cy="199.49744184654904" r="7" fill="#1c1d1f"/><circle cx="200.00009287564276" cy="219.99999999993838" r="7" fill="#1c1d1f"/><circle cx="150.50262382653491" cy="199.49757319245552" r="7" fill="#1c1d1f"/><circle cx="130.00000000024644" cy="150.00018575128553" r="7" fill="#1c1d1f"/><circle cx="150.50236113472195" cy="100.50268949970598" r="7" fill="#1c1d1f"/><circle cx="199.99972137307168" cy="80.00000000055452" r="7" fill="#1c1d1f"/><circle cx="249.4972448270358" cy="100.50229546198653" r="7" fill="#1c1d1f"/>
+</svg>

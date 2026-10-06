@@ -1,4 +1,4 @@
-https://vinitlikhar.github.io/vinixx-materials-web/
+(https://vinitlikhar.github.io/vinixx-materials-web/)
 
 Vinixx Metals & Alloys Web Platform
 Welcome to the official web repository for Vinixx Metals & Alloys, a dedicated enterprise platform engineered to showcase precision-manufactured ferrous, non-ferrous, and specialty alloy products for global industrial applications. This repository houses the complete front-end architecture, product catalog logic, material data sheets, and client inquiry handling systems powering the digital presence of Vinixx Metals & Alloys.
